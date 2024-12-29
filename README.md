@@ -93,6 +93,6 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 
 ## Contact
 For questions or suggestions, please reach out via:
-- **Email**: your-email@example.com
+- **Email**: sanjurajveer1998@gmail.com
 - **GitHub**: [sanjurajveer](https://github.com/sanjurajveer)
 
